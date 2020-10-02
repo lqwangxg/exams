@@ -1,3 +1,17 @@
+Q: What is the purpose of problem management?
+  A: Helps direct the incident to the corret support area
+  B: Reduces the likelihood and impact of incidents
+  C: Ensures services are restored as soon as possible
+  D: Determines how the service provider is perceived
+  Explanations: The purpose of problem management is to reduce the likelihood and impact of incidents by identifying actual and potential causes of incidents and managing workarouds and knows errors.
+  Correct: B
+Q: Which of the following is a standard change?
+  A: Resolving an incident or implementing a security patch
+  B: Moving a desktop for single user
+  C: increasing the memory of a server to avoid an incident
+  D: Uninstalling a new patch that has caused a high-priority incident
+  Explanations: Standard changes are low risk and low cost and also occur frequently.
+  Correct: B
 Q: Which value chain activity ensures the availability of service components?
   A: Improve
   B: Engage

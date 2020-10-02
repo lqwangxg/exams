@@ -1,0 +1,87 @@
+Q: Which value chain activity ensures the availability of service components?
+  A: Improve
+  B: Engage
+  C: Obtain/build
+  D: Deliver and support
+  Explanations: The obtain/build activity ensures that the service components are available when and where they are needed and meet agreed specifications.
+  Correct: C
+Q: New or changed components are deployed to all targets at the same time. Which type of deployment approach does this statement represent?
+  A: Phased deployment
+  B: Continuous delivery
+  C: Big bang deployment
+  D: Pull deployment
+  Explanations: The statement new or changed components are de to all targets at the same time, corresponds to big bang deployment approach.
+  Correct: C
+Q: What are the types of assest management?
+  A: IT asset management and software assest management.
+  B: IT asset management and technical management.
+  C: Operational management and IT asset management.
+  D: Operational and technical management.
+  Explanations: The two types of assest management are IT asset management(ITAM) and soft asset management(SAM).
+  Correct: A
+Q: Which of the following are problem control activities? \
+    1.Performing trend analysis of incident records. \
+    2.Preassessing the status of known errors that have not been resolved\
+    3.Prioritizing problems for analysis based on the risk.\
+    4.Finding and documenting a workaround for future incidents when a problem cannot be resolved quickly.
+  A: 1 and 2 
+  B: 1 and 3 
+  C: 2 and 3 
+  D: 3 and 4
+  Explanations: Problem control activities include problem analysis and documenting workarounds and known errors.
+  Correct: 3
+Q: Which ITIL concept describes governance?
+  A: The seven guiding principles
+  B: The four dimensions of service management
+  C: The service value chain
+  D: The service value system
+  Explanations: The ITIL Service Value System(SVS) describes how all the components and activities of the organization work together as a system to enable value creation. It include governance, ITIL guiding principles, service value chain, best practices, and continual improvement.
+  Correct: D
+Q: Which practice ensures that stakeholders' needs are understood and product and service are prioritized appropriately?
+  A: Continuous Improvement
+  B: Relationship management
+  C: Change control
+  D: Service desk
+  Explanations: The purpose of the relationship management is to establish and nurture the links between the organization and its stakeholders at strategic and tactical levels. This practice ensures that stakeholders needs and drivers are understood and products and services are prioritized appropriately.
+  Correct: B
+Q: Which of the following is an example of workaround?
+  A: Server memory is increased when the server is unresponsive
+  B: A defective network switch is replaced with a new one
+  C: A server is restarted to resolve an incident
+  D: An email server is restored after an incident is reported
+  Explanations: Workaround is a temporary solution applied to an incident. Options A, B, and D are the permanent solutions
+  Correct: C
+Q: What is the purpose of service level management?
+  A: To ensure that all current and planned IT services are delivered to agreed achievable targets
+  B: To obtain/build activity that ensure the service components are available when and where they are needed and meet agreed specifications
+  C: To establish and nurture the links between the organization and its stakeholders at strategic and tactical levels
+  D: To track and manage improvement ideas from identification to final action, organizations use a database or structured document called a continual improvement register(CIR)
+  Explanations: The purpose of SLM process is to ensure that all current and planned IT services are delivered to agreed achievable targets. This is accomplished through a constant cycle of negotiating, agreeing, monitoring, reporting on and reviewing IT service targets and achievements, and through the instigation of actions to correct or improve the level of service delivered.
+  Correct: A
+Q: Which of the following is NOT an activity of supplier management?
+  A: Contract negotiation and agreement
+  B: To deliver and manage IT services at agreed levels to business users
+  C: Service operation
+  D: To ensure service levels are met and breaches of agreements are avoided
+  Explanations: SLM is a vital process for every IT service provider organization in that it is responsible for agreeing and documenting service level targets and responsibilities within SLAs and service level requirements(SLRs) for every service and related activity within IT
+Q: Which practice identifies metrics that reflect a customer experience of a service?
+  A: Continual improvement 
+  B: Service desk
+  C: Service level management
+  D: Problem management
+  Explanations: Service level manag ident metrics and measures that are a truthful reflection of the customer's actual experience and level of satisfaction with the whole service, and Engagement is needed to undestand and confirm the actual ongoing needs and requirements of customers, not simply what is interpreted by the service provider or has been agreed several years before.
+  Correct: C
+Q: How does categorization of incidents assist the incident management practice?
+  A: It helps direct the incident to the correct support area
+  B: It determines the priority assigned to the incident
+  C: It ensures that incidents are resolved in timescales agreed with the customer
+  D: It determines how the service provider is perceived
+  Explanations: More complex incidents will usually be escalated to a support team for resolution. Typically, the routing is based on the incident category, which should help to identify the correct team
+  Correct: A
+Q: Which is a potential benefit of using an IT service management tool to support the incident management practice?
+  A: It may ensure that the cause of incidents is identified within agreed times
+  B: It may provide automated matching of incidents to problems or known errors
+  C: It may ensure that supplier contracts are aligned with the needs of the service provider
+  D: It may provide automated resolution and closure of complex incidents
+  Explanations: Modern IT service management tools can provide automated matching of incidents to other incidents, problems, or known errors.
+  Correct: B
